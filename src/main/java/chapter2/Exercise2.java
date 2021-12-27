@@ -8,7 +8,7 @@ import java.time.Instant;
 import java.util.Date;
 import java.util.stream.IntStream;
 
-public class excercice2 {
+public class Exercise2 {
 
     public static void main(String[] args) {
         //https://stackoverflow.com/questions/6840803/why-is-javas-simpledateformat-not-thread-safe
